@@ -1,0 +1,210 @@
+body{
+    margin: 0px;
+}
+#main{
+    background-color: red;
+    width: 1500px;
+    height: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    
+}
+#brandname{
+    margin: 10px;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 30px;
+    color: aqua;
+
+}
+#navbar{
+    width: 1500px;
+    height: 55px;
+    position: fixed;
+    background-color: springgreen;
+    
+}
+
+#brandname{
+    margin: 10px;
+    padding: 3px;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgb(255, 166, 0);
+
+}
+
+#navbar ul{
+    list-style-type: none;
+    display: flex;
+    margin: -65px;
+    margin-left: 300px;
+    font-weight: bold;
+    
+}
+
+#navbar > ul > li{
+    margin: 25px;
+}
+#searchbar{
+    margin-left: 1020px;
+    margin-top: 15px;
+    
+}
+.input1{
+    width: 200px;
+    height: 28px;
+    border: 2px solid black;
+    background: transparent;
+
+}
+.btn1{
+    width: 70px;
+    height: 35px;
+    margin-left: -5px;
+    border: 2px solid black;
+    font-weight: bold;
+}
+.text2{
+    width: 1500px;
+    color: aliceblue;
+    font-weight: bold;
+    margin-top: -930px;
+}
+.text3 pre{
+    width: 500px;
+    height: 500px;
+    color: rgb(231, 113, 17);
+    font-weight: bold;
+    margin-top: 150px;
+    margin-left: 800px;
+    font-weight: bold;
+    font-style: italic;
+}
+.btn5{
+    display: flex;
+    margin-left: 900px;
+    margin-top: -300px;
+    width: 300px;
+    height: 40px;
+    background-color: aqua;
+}
+.btn2{
+    display: inline-block;
+    margin-left: -10px;
+}
+.myservices{
+    width: 1500px;
+    height: 500px;
+    background-color: aqua;
+    position: absolute;
+    margin-top: 1000px;
+}
+.myservices h1{
+    margin-left: 500px;
+    color: red;
+    font-weight: bold;
+}
+
+.table1 {
+    border: 5px solid seagreen;
+    width: 300px;
+    height: 400px;
+    margin-left: 30px;
+    border-radius: 15px;
+    position: relative;
+}
+.table2 {
+    border: 5px solid rgb(166, 255, 0);
+    width: 300px;
+    height: 400px;
+    margin-left: 500px;
+    border-radius: 15px;
+    position: absolute;
+    margin-top: -420px;
+}
+.table3 {
+    border: 5px solid red;
+    width: 300px;
+    height: 400px;
+    margin-left: 980px;
+    border-radius: 15px;
+    position: absolute;
+    margin-top: -420px;
+}
+.table1 img{
+    width: 300px;
+    height: 200px;
+    margin-top: 0px;
+    margin-left: 1px;
+    image-rendering: 5px;
+    border-radius: 15px;
+}
+.table2 img{
+    width: 300px;
+    height: 200px;
+    margin-top: 0px;
+    margin-left: 1px;
+    image-rendering: 5px;
+    border-radius: 15px;
+}
+.table3 img{
+    width: 300px;
+    height: 200px;
+    margin-top: 0px;
+    margin-left: 1px;
+    image-rendering: 5px;
+    border-radius: 15px;
+}
+.table1 p{
+    color: black;
+    font-style: italic;
+    text-align: justify;
+}
+.table2 p{
+    color: black;
+    font-style: italic;
+    text-align: justify;
+}
+.table3 p{
+    color: black;
+    font-style: italic;
+    text-align: justify;
+}
+.table1 button{
+    text-align: center;
+    width: 100px;
+    height: 30px;
+    background-color: skyblue;
+}
+.table2 button{
+    text-align: center;
+    width: 100px;
+    height: 30px;
+    background-color: skyblue;
+}
+.table3 button{
+    text-align: center;
+    width: 100px;
+    height: 30px;
+    background-color: skyblue;
+}
+.text1{
+    color: red;
+    font-weight: bold;
+}
+#footer{
+    width: 1500px;
+    height: 100px;
+    background-color: rgb(17, 95, 95);
+    position: absolute;
+    margin-top: 1500px;
+}
+#footer > p{
+    width: 1500px;
+    font-weight: bold;
+    margin-left: 550px;
+    line-height: 80px;
+
+}
